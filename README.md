@@ -4,10 +4,14 @@
 
 
 
-## Links I have been planing to learn.
+## Links I have planned to learn.
 
  - [Coursera Neural Network course by Geoffrey Hintonh](ttps://class.coursera.org/neuralnets-2012-001/lecture)
  - [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+ - [CS224d: Deep Learning for Natural Language Processing
+](http://cs224d.stanford.edu/syllabus.html)
+ - [CS231n Convolutional Neural Networks for Visual Recognition
+](http://cs231n.github.io/)
 
 
 ## Apache Spark Study Plan
