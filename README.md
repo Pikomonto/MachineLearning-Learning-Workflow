@@ -12,6 +12,8 @@
 ](http://cs224d.stanford.edu/syllabus.html)
  - [CS231n Convolutional Neural Networks for Visual Recognition
 ](http://cs231n.github.io/)
+ - [Machine Learning with Python @ Kaggle](http://blog.kaggle.com/author/kevin-markham/)
+ - 
 
 
 ## Apache Spark Study Plan
